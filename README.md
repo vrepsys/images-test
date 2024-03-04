@@ -1,3 +1,3 @@
-![](/img/editor.png)
+[![block accessibility](/img/editor.png 'block title')](https://inline.com)
 
-Hey ![](/img/rabbit.png) asdf
+Hey [![inline alt](/img/rabbit.png 'inline tittle')](https://inlineurl.com) asdf
