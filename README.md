@@ -2,6 +2,8 @@
 
 This website isThis website isThis website isThis website isThis website isThis website isThis website isThis website ![](/img/rabbit.png) isThis website isThis website isThis website isThis website isThis website isThis website isThis website isThis website is built ![](/img/rabbit.png) using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+![](./blog/2024-01-20-how-it-works/plants.jpg)
+
 Nukeitims
 
 Hello
